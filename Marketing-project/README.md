@@ -1,0 +1,1 @@
+Analysis of retail data with columns (InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country) and calculation of performance metrics as well as generation of insights.
