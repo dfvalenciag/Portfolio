@@ -62,17 +62,12 @@ Where:
 + CPC is the average cost per user that is redirected to the page, so you don't have to multiply it. On average the cost per click is 5, the probability of clicking is already implicit in the metric.
 
 # Results
-Table probabilities of conversion:
+Table: probabilities of conversion:
 
 |       Group       | Conversion rate |  Standard deviation  |    Standard error   |
-
-|:-----------------:|:-----------:|:-----------:|:-----------:|:--------------:|
-
-|  Control    | 0.120	|   0.325   |   0.001   |
-
-|:-----------------:|:-----------:|:-----------:|:-----------:|:--------------:|
-
-|  Treatment  | 0.119   |   0.323   |  0.001    |
+|:-----------------:|:---------------:|:--------------------:|:-------------------:|
+|     Control       |      0.120      |         0.325        |         0.001       |
+|      Treatment    |      0.119      |         0.323        |         0.001       |
 	
 
 Immediately we notice that the conversions are very similar, i.e. $p$ is very close to $p_0$.  
