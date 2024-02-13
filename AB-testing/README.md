@@ -64,11 +64,15 @@ Where:
 # Results
 Table probabilities of conversion:
 
-|       Group       | Conversion rate |  Standard deviation  |    Standard error   |//\\
-|:-----------------:|:-----------:|:-----------:|:-----------:|:--------------:|//
-|  Control    | 0.120	|   0.325   |   0.001   |//
-|:-----------------:|:-----------:|:-----------:|:-----------:|:--------------:|//
-|  Treatment  | 0.119   |   0.323   |  0.001    |// \\
+|       Group       | Conversion rate |  Standard deviation  |    Standard error   |
+
+|:-----------------:|:-----------:|:-----------:|:-----------:|:--------------:|
+
+|  Control    | 0.120	|   0.325   |   0.001   |
+
+|:-----------------:|:-----------:|:-----------:|:-----------:|:--------------:|
+
+|  Treatment  | 0.119   |   0.323   |  0.001    |
 	
 
 Immediately we notice that the conversions are very similar, i.e. $p$ is very close to $p_0$.  
