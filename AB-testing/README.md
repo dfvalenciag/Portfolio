@@ -54,7 +54,7 @@ This implies that the expected **CLTV** per user who clicks on the ad is:
 
 Note that we are talking about the **Expected Value of the CLTV** not the **CLTV** as such, since we are not evaluating the effect of the redesign on user spending once they subscribe:
 + **CTVL** = 200 - 100. This remains fixed, as it is a metric defined by the company, and is conditional on the person having already subscribed. This definition **does not include acquisition costs, only maintenance and subscription costs**. 
-+ The **expected CLTV** includes the acquisition costs, it is the **CLTV** of all our potential buyers, that's why we include the acquisition costs such as the CPC, and also the probability of subscribing $p \ \& \ p_0$.  
++ The **expected CLTV** includes the acquisition costs, it is the **CLTV** of all our potential buyers, that's why we include the acquisition costs such as the CPC, and also the probability of subscribing $p \ \$ & $\ p_0$.  
 To avoid further confusion let us define the **expected CTVL** as $E$.
 
 Where:  
